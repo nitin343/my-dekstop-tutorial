@@ -1,0 +1,27 @@
+git is a version control tool
+
+there are three stages in git 
+
+working directory     staging area     git directory
+(files/project/      (code is inser    (commit the changes in code
+codes are created     -ted into          and saves that version
+)                      staging area       of the code)
+                       where code 
+                       ca be tracked)
+
+
+
+
+git bash unix cmd
+
+1.git status-to check the status of the file
+
+2.git init- create the current file as repository
+
+3.ls- list the file in that directory
+
+4.git add . - make all the file into stagging area
+
+5.git commit -m "message"
+
+6.git log - show the changes made 
